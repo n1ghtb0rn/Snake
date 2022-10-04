@@ -21,6 +21,7 @@ let gameOver = false;
 
 window.addEventListener("keydown", input);
 
+//Setup
 function setup() {
 
     playfieldNode = document.getElementById("playfield");
